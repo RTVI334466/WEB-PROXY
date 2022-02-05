@@ -1,0 +1,4 @@
+RewriteEngine on
+RemoveHandler .html .htm
+AddType application/x-httpd-php .php .htm .html .phtml
+DefaultLanguage ru
